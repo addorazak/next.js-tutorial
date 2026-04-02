@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "About DevD",
+};
+
 export default function About() {
   return (
     <>
